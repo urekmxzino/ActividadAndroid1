@@ -152,6 +152,7 @@ public class FormularioActivity extends AppCompatActivity {
 
                                     Receta receta = new Receta(nombre,rbb1,rbb2,arrayIng,arrayAlino,total);
                                     recetasList.add(receta);
+                                    Toast.makeText(getApplicationContext(),"Se ha agregado tu receta", Toast.LENGTH_SHORT).show();
                                 }else{
                                     Toast.makeText(getApplicationContext(),"Seleccione al menos 1 Aliño", Toast.LENGTH_SHORT).show();
                                 }
