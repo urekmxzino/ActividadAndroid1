@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Recetas de Pizza</string>
+    <string name="btnForm">Formulario</string>
+    <string name="btnList">Ir a listado de recetas</string>
+    <string name="txtTitleForm">Crea tu receta</string>
+    <string name="txtTitleList">Lista de Recetas</string>
+    <string name="txtNombre">Ingrese el nombre de la receta</string>
+    <string name="txtIngP">Seleccione el ingrediente principal</string>
+    <string name="txtBase">Seleccione la base de la pizza</string>
+    <string name="txtIng">Seleccione los ingredientes de la pizza</string>
+    <string name="txtAlino">Seleccione los aliños</string>
+    <string name="txtSave">Guardar Receta</string>
+
+
+    <string name="rdbtnCarne">Carne</string>
+    <string name="rdbtnPollo">Pollo</string>
+    <string name="rdbtnMix">Mix</string>
+
+    <string name="cbcebolla">Cebolla</string>
+    <string name="cbchampinon">Champiñon</string>
+    <string name="cbmorron">Morrón</string>
+    <string name="cbtomate">Tomate</string>
+    <string name="cbtomatecherry">Tomate cherry</string>
+    <string name="cbpalta">Palta</string>
+    <string name="cbajo">Ajo</string>
+    <string name="cbalbaca">Albaca</string>
+    <string name="cboregano">Orégano</string>
+
+    <string name="rdbtnRoja">Roja</string>
+    <string name="rdbtnBlanca">Blanca</string>
+</resources>
